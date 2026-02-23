@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "GURU",
+  "base_artist": "じん",
+  "createdAt": "2026-02-23T09:59:58.142486Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Guru Mother",
+      "artist": "Opus III",
+      "has_synced": false,
+      "path": "select/01_Guru_Mother_Opus_III.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Street Guru, Part 1",
+      "artist": "Nitin Sawhney",
+      "has_synced": false,
+      "path": "select/02_Street_Guru,_Part_1_Nitin_Sawhney.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Street Guru, Part 2",
+      "artist": "Nitin Sawhney",
+      "has_synced": false,
+      "path": "select/03_Street_Guru,_Part_2_Nitin_Sawhney.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Eaguru Guru",
+      "artist": "Deerhoof",
+      "has_synced": false,
+      "path": "select/04_Eaguru_Guru_Deerhoof.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Love My Guru",
+      "artist": "Helmet",
+      "has_synced": true,
+      "path": "select/05_I_Love_My_Guru_Helmet.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Pierpandi Il Guru",
+      "artist": "Squallor",
+      "has_synced": false,
+      "path": "select/06_Pierpandi_Il_Guru_Squallor.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Metal Guru",
+      "artist": "T.Rex",
+      "has_synced": false,
+      "path": "select/07_Metal_Guru_T.Rex.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sit With the Guru",
+      "artist": "Strawberry Alarm Clock",
+      "has_synced": true,
+      "path": "select/08_Sit_With_the_Guru_Strawberry_Alarm_Clock.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sit With The Guru",
+      "artist": "Strawberry Alarm Clock",
+      "has_synced": false,
+      "path": "select/09_Sit_With_The_Guru_Strawberry_Alarm_Clock.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sit With The Guru (Album Version)",
+      "artist": "Strawberry Alarm Clock",
+      "has_synced": false,
+      "path": "select/10_Sit_With_The_Guru_(Album_Version)_Strawberry_Alarm_Clock.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Guru",
+      "artist": "U.K. Subs",
+      "has_synced": false,
+      "path": "select/11_Guru_U.K._Subs.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Guru",
+      "artist": "UK Subs",
+      "has_synced": false,
+      "path": "select/12_Guru_UK_Subs.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Metal Guru",
+      "artist": "T. Rex",
+      "has_synced": true,
+      "path": "select/13_Metal_Guru_T._Rex.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Metal Guru",
+      "artist": "T. Rex",
+      "has_synced": false,
+      "path": "select/14_Metal_Guru_T._Rex.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Ella Guru",
+      "artist": "Captain Beefheart & His Magic Band",
+      "has_synced": true,
+      "path": "select/15_Ella_Guru_Captain_Beefheart_&_His_Magic_Band.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Metal Guru",
+      "artist": "Marc Bolan & T. Rex",
+      "has_synced": false,
+      "path": "select/16_Metal_Guru_Marc_Bolan_&_T._Rex.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Be My Guru",
+      "artist": "Hoodoo Gurus",
+      "has_synced": false,
+      "path": "select/17_Be_My_Guru_Hoodoo_Gurus.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "They Always Take the Guru",
+      "artist": "Stray from the Path",
+      "has_synced": true,
+      "path": "select/18_They_Always_Take_the_Guru_Stray_from_the_Path.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GURU",
+      "artist": "じん",
+      "has_synced": false,
+      "path": "select/pl_01_GURU_じん.txt"
+    }
+  ]
+}
